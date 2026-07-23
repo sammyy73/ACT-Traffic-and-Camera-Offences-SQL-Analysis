@@ -1,9 +1,12 @@
 # ACT-Traffic-and-Camera-Offences-SQL-Analysis
 
+A beginner SQL project using Google BigQuery to analyse ACT traffic infringements, penalty amounts, offence types and missing data.
+
+
 
 ## Project Overview
 
-This SQL project analyses traffic and camera offence data published by the ACT Government.
+This SQL project analyses traffic and camera offence data published by the ACT Government Open Data Portal dataACT. 
 
 Google BigQuery was used to calculate infringement totals, compare categories, identify common offences and check important columns for missing values.
 
@@ -124,12 +127,12 @@ This offence recorded approximately 215,194 infringements involving ACT-register
 
 ### Top 10 Offence Descriptions
 
-![Top 10 offence descriptions query and results]
+![Top 10 offence descriptions query and results](images/top_10_offences_query.png)
 
 
 ### Registration State Comparison
 
-![Registration state query and results]
+![Registration state query and results](images/registration_state_query.png)
 
 
 

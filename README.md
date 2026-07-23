@@ -183,7 +183,6 @@ This beginner project demonstrates my ability to use foundational SQL skills to 
 
 It also demonstrates how SQL results can be exported into Excel and presented through a simple visualisation.
 
-## Author
 
 **Sammy Rana**
 

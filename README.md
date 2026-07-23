@@ -127,12 +127,12 @@ This offence recorded approximately 215,194 infringements involving ACT-register
 
 ### Top 10 Offence Descriptions
 
-![Top 10 offence descriptions query and results](images/top_10_offences_query.png)
+![Top 10 offence descriptions query and results](top_10_offences_query.png)
 
 
 ### Registration State Comparison
 
-![Registration state query and results](images/registration_state_query.png)
+![Registration state query and results](registration_state_query.png)
 
 
 
